@@ -1,0 +1,30 @@
+h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+.btn-style {
+  background: #e76f51;
+  color: white;
+}
+.text-style {
+  color: #e76f51;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+.icon-bg {
+  color: #e77c40;
+}
+.img-gray {
+  filter: grayscale(100%);
+}
+.test-color {
+  color: #e76f51;
+}
+.contact {
+  max-width: 600px;
+}
+.contact-bg {
+  background-color: #f1efef;
+}

@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "FLEXIBLE",
+      "img": "https://i.ibb.co/HGXFJCK/flexible-icon.png",
+      "title": "Online and asynchronous coursework. Study wherever and whenever you want."
+    },
+    {
+      "id": 2,
+      "name": "CONVENIENT",
+      "img": "https://i.ibb.co/RzqP84t/convenient-icon-1.png",
+      "title": "Most courses are 5 weeks long, with a weeklong break in between."
+    },
+    {
+      "id": 3,
+      "name": "SUPPORTIVE",
+      "img": "https://i.ibb.co/P6JV51J/supportive-icon.png",
+      "title": "High-quality, accessible faculty, plus extra academic support to help you succeed."
+    }
+    
+  ]

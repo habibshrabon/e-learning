@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "IT",
+      "img": "https://i.ibb.co/k4tL36n/it.jpg",
+      "title": "Cyber Security Courses"
+    },
+    
+    {
+      "id": 2,
+      "name": "HEALTH",
+      "img": "https://i.ibb.co/S78L3y1/health.jpg",
+      "title": "Advance Cardiac Life Support"
+    },
+    
+    {
+      "id": 3,
+      "name": "PERSONAL DEVELOPMENT",
+      "img": "https://i.ibb.co/4WB7wwv/personal-dev.jpg",
+      "title": "Safeguarding Vulnerable Adults"
+    },
+    
+    {
+      "id": 4,
+      "name": "SALES & MARKETING",
+      "img": "https://i.ibb.co/Qkjf7c0/photo-1494178270175-e96de2971df9.jpg",
+      "title": "Business Etiquette and Professionalism"
+    },
+    
+    {
+      "id": 5,
+      "name": "MANAGEMENT",
+      "img": "https://i.ibb.co/QdDxgyD/management.jpg",
+      "title": "Risk Management Framework for Risk Leaders"
+    },
+    
+    {
+      "id": 6,
+      "name": "BUSINESS",
+      "img": "https://i.ibb.co/qFd2VYg/business.jpg",
+      "title": "Behaviour-Based Safety"
+    },
+    
+    {
+      "id": 7,
+      "name": "TEACHING & ACADEMICS",
+      "img": "https://i.ibb.co/F5VWDvT/academy.jpg",
+      "title": "Growth Mindsets for Teachers and Learner"
+    },
+    
+    {
+      "id": 8,
+      "name": "ENGINEERING",
+      "img": "https://i.ibb.co/7p9wSwS/engineering.jpg",
+      "title": "Machanical Engineering-internal combustion engin"
+    }
+    
+    
+  ]
