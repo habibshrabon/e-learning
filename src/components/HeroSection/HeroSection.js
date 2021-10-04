@@ -14,15 +14,12 @@ const HeroSection = () => {
         <div className="row pb-5">
           <div className="col-md-6 d-flex align-items-center">
             <div>
-              <p className="text-white">Hello, I'm</p>
-              <h1 className="text-white">Sakhawat Hossain</h1>
+              <h1 className="text-white">E-LEARN</h1>
 
               <p className="text-justify my-3 text-white">
-                A self-motivated and enthusiastic web developer with a deep
-                interest in JavaScript. To work in the Software industry with
-                modern web technologies of different local & multinational
-                Software/ IT agencies of Bangladesh and grow rapidly with
-                increasing responsibilities.
+                E-learning is a structured course or learning experience
+                delivered electronically; it can also include performance
+                support content.
               </p>
               <button
                 onClick={handleClick}
