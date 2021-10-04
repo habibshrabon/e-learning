@@ -9,3 +9,6 @@
 .cart-container {
   text-align: center;
 }
+.service-text {
+  max-width: 600px;
+}

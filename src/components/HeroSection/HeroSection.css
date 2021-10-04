@@ -1,7 +1,16 @@
-.img-size {
-  max-width: 100%;
-  width: 400px;
-}
 .bg-color {
   background-color: #264653;
+}
+.button-style {
+  background-color: gray;
+  border: 1px solid gray;
+}
+.button-style:hover {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: black;
+}
+.button-style a {
+  color: #fff;
+  text-decoration: none;
 }

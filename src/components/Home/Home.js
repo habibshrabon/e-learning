@@ -17,19 +17,12 @@ const Home = () => {
       });
   }, []);
 
-  const [courses, setCourses] = useState([]);
-
-  useEffect(() => {
-    fetch("./services.json")
-      .then((res) => res.json())
-      .then((data) => setCourses(data));
-  }, []);
   return (
     <div className="">
       <Header />
       <HeroSection />
 
-      <div>
+      <div style={{ maxWidth: "800px" }} className="mx-auto text-center p-5">
         <h1 className="text-center text-danger">
           Your Goals, Your Time, Your Budget
         </h1>
@@ -45,9 +38,6 @@ const Home = () => {
           <div className="row row-cols-1 row-cols-md-3 g-4">
             {services.map((service) => (
               <Service service={service} key={service.id}></Service>
-            ))}
-            {courses.map((course) => (
-              <Services course={course} key={course.id}></Services>
             ))}
           </div>
         </div>

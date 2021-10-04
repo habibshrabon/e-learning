@@ -4,7 +4,7 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Contact from "./components/Contact/Contact";
 import Home from "./components/Home/Home";
 import NotFound from "./components/NotFound/NotFound";
-import Services from "./components/Services/Services";
+import ServicesData from "./components/ServicesData/ServicesData";
 
 function App() {
   return (
@@ -20,8 +20,8 @@ function App() {
           <Route path="/aboutus">
             <AboutUs />
           </Route>
-          <Route path="/services">
-            <Services />
+          <Route path="/servicesData">
+            <ServicesData />
           </Route>
           <Route path="/contact">
             <Contact />
