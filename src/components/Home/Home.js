@@ -1,9 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Footer from "../Footer/Footer";
-import Header from "../Header/Header";
 import HeroSection from "../HeroSection/HeroSection";
 import Service from "../Service/Service";
-import Services from "../Services/Services";
 import "./Home.css";
 
 const Home = () => {
@@ -19,7 +16,6 @@ const Home = () => {
 
   return (
     <div className="">
-      <Header />
       <HeroSection />
       <div style={{ maxWidth: "800px" }} className="mx-auto text-center p-5">
         <h1 className="text-center text-danger">
@@ -32,7 +28,7 @@ const Home = () => {
           get you there.
         </p>
       </div>
-      <div className="container py-5">
+      <div className="container pb-5">
         <div className="row">
           <div className="row row-cols-1 row-cols-md-3 g-4">
             {services.map((service) => (
@@ -41,7 +37,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <Footer />
     </div>
   );
 };

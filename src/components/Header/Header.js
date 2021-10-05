@@ -6,11 +6,11 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg pt-0 pb-0 navbar-light  bg-color">
       <div className="container">
-        <div className="collapse navbar-collapse p-3" id="navbarNav">
+        <div className="collapse navbar-collapse py-3" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
               <NavLink
-                className="nav-link active text-white"
+                className="nav-link active text-white ps-0"
                 aria-current="page"
                 to="/home"
               >

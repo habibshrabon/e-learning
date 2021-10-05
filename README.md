@@ -4,6 +4,6 @@ This project was bootstrapped with [Click](https://kind-mirzakhani-d7d68f.netlif
 
 ## Available Scripts
 
-This is online educational website.
-Many courses Here.
-Your Goals, Your Time, Your Budget.
+- This is online educational website.
+- Many courses Here.
+- Your Goals, Your Time, Your Budget.

@@ -1,0 +1,9 @@
+.not-found {
+  height: 79vh;
+  background-color: rgb(250, 249, 249);
+}
+.content-404 {
+  color: rgb(122, 4, 4);
+  text-align: center;
+  padding: 100px 0px;
+}
