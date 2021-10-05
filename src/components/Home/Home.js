@@ -15,7 +15,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="">
+    <>
       <HeroSection />
       <div style={{ maxWidth: "800px" }} className="mx-auto text-center p-5">
         <h1 className="text-center text-danger">
@@ -28,16 +28,16 @@ const Home = () => {
           get you there.
         </p>
       </div>
-      <div className="container pb-5">
+      <div className="container">
         <div className="row">
-          <div className="row row-cols-1 row-cols-md-3 g-4">
+          <div className="row row-cols-1 m-0 row-cols-md-3 g-4 pb-5">
             {services.map((service) => (
               <Service service={service} key={service.id}></Service>
             ))}
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 };
 
