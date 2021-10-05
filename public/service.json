@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "name": "BUSINESS",
-    "img": "https://i.ibb.co/qFd2VYg/business.jpg",
-    "title": "Behaviour-Based Safety"
+    "name": "PERSONAL DEVELOPMENT",
+    "img": "https://i.ibb.co/4WB7wwv/personal-dev.jpg",
+    "title": "Safeguarding Vulnerable Adults"
   },
   
   {
     "id": 2,
-    "name": "TEACHING & ACADEMICS",
-    "img": "https://i.ibb.co/F5VWDvT/academy.jpg",
-    "title": "Growth Mindsets for Teachers and Learner"
+    "name": "SALES & MARKETING",
+    "img": "https://i.ibb.co/Qkjf7c0/photo-1494178270175-e96de2971df9.jpg",
+    "title": "Business Etiquette and Professionalism"
   },
   
   {
     "id": 3,
-    "name": "ENGINEERING",
-    "img": "https://i.ibb.co/7p9wSwS/engineering.jpg",
-    "title": "Machanical Engineering-internal combustion engin"
+    "name": "MANAGEMENT",
+    "img": "https://i.ibb.co/QdDxgyD/management.jpg",
+    "title": "Risk Management Framework for Risk Leaders"
   }
     
   ]

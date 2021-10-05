@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div className="container">
       <Header />
-      <section className="py-5 d-flex justify-content-center contact-bg mt-5">
+      <section className="py-5 d-flex justify-content-center contact-bg">
         <div className="container contact p-5">
           <h2 className="text-center pb-5">Contact Us</h2>
           <div>

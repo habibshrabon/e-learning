@@ -15,7 +15,6 @@ const HeroSection = () => {
           <div className="col-md-6 d-flex align-items-center">
             <div>
               <h1 className="text-white">E-LEARN</h1>
-
               <p className="text-justify my-3 text-white">
                 E-learning is a structured course or learning experience
                 delivered electronically; it can also include performance
@@ -27,7 +26,7 @@ const HeroSection = () => {
                 to="/about"
                 className="btn-style btn px-3 ms-auto"
               >
-                About Me
+                About Courses
               </button>
             </div>
           </div>

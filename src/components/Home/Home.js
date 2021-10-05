@@ -21,7 +21,6 @@ const Home = () => {
     <div className="">
       <Header />
       <HeroSection />
-
       <div style={{ maxWidth: "800px" }} className="mx-auto text-center p-5">
         <h1 className="text-center text-danger">
           Your Goals, Your Time, Your Budget

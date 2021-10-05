@@ -7,15 +7,17 @@ const Service = (props) => {
   return (
     <div>
       <div className="col">
-        <div className="card h-100 card-bg">
+        <div className="card card-bg shadow">
           <img
             src={img}
-            className="card-img-top cart-img mx-auto img-fluid"
+            style={{ height: "275px" }}
+            className="card-img-top justify-content-center align-items-center img-fluid"
             alt={name}
           />
           <div className="card-body">
             <h3 className="card-title text-center">{name}</h3>
             <p>{title}</p>
+            <button className="btn-style btn px-3 ms-auto">More Course</button>
           </div>
         </div>
       </div>
