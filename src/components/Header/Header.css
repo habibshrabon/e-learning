@@ -4,7 +4,11 @@ h2 {
   line-height: 72px;
 }
 .btn-style {
-  background: #e76f51;
+  background: #ff697c;
+  color: white;
+}
+.btn-style:hover {
+  background: #45567c;
   color: white;
 }
 .text-style {

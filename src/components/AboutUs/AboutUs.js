@@ -1,32 +1,26 @@
 import React from "react";
 import image from "../../images/img.png";
+import "./AboutUs.css";
 
 const AboutUs = () => {
   return (
     <div>
-      <section className="container">
-        <h2 className="text-center py-5">
-          <span className="text-style">About</span> Us
-        </h2>
+      <section className="container content-height">
+        <h2 className="text-center py-5">About Us</h2>
         <div className="row align-items-center pb-5">
-          <div className="col-md-6 p-5">
-            <h3>Educational background questions.</h3>
+          <div className="col-md-6 p-5 padding">
+            <h2 className="text-style">Why Choose Us</h2>
+            <hr />
             <p>
-              One of the most common job interview topics is your educational
-              background. You may wonder why hiring managers ask about something
-              that is probably featured prominently on your resume.
+              A E-Learning education prepares students for life, helping them
+              develop an informed curiosity and a lasting passion for learning.
             </p>
-            <h3>Your educational background.</h3>
-            <p>
-              Your educational background is the set of all the formal and
-              informal education that you have achieved, plus any new learning
-              opportunities you are pursuing or plan to pursue soon.
-            </p>
-            <h3>Start with the required minimum.</h3>
-            <p>
-              For example, if the listing states that a bachelor’s degree is
-              required, confirm that you have one and share your major.
-            </p>
+            <h3>Best Education System</h3>
+            <p>Advance Education Management</p>
+            <h3>Learning Management</h3>
+            <p>LMS Integration</p>
+            <h3>Online Certification</h3>
+            <p>Performance Based Certificate</p>
           </div>
           <div className="col-md-6">
             <img className="img-fluid p-5" src={image} alt="" />

@@ -4,7 +4,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg pt-0 pb-0 navbar-light  bg-color">
+    <nav className="navbar navbar-expand-lg pt-0 pb-0 navbar-light bg-color">
       <div className="container">
         <div className="collapse navbar-collapse py-3" id="navbarNav">
           <ul className="navbar-nav">

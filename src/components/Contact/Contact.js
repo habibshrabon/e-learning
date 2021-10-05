@@ -1,9 +1,10 @@
 import React from "react";
+import "./Contact.css";
 
 const Contact = () => {
   return (
     <div className="contact-bg">
-      <div className="container">
+      <div className="content-height">
         <section className="py-5 d-flex justify-content-center">
           <div className="container contact p-5">
             <h2 className="text-center pb-5">Contact Us</h2>

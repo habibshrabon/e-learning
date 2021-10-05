@@ -13,9 +13,7 @@ const Services = (props) => {
           <div className="card-body">
             <h3 className="card-title text-center">{name}</h3>
             <p>{title}</p>
-            <button className="btn-style btn px-3 ms-auto">
-              Course Start Now
-            </button>
+            <button className="btn-style btn px-3 ms-auto">View Now</button>
           </div>
         </div>
       </div>
